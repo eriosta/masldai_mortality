@@ -1,0 +1,2 @@
+nhanes3/files/files/adult.csv filter=lfs diff=lfs merge=lfs -text
+nhanes3/files/files/exam.csv filter=lfs diff=lfs merge=lfs -text
