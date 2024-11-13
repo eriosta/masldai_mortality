@@ -1,0 +1,5 @@
+level_0,level_1,Model_A,Model_B,Z-Score,P-Value
+All-cause mortality,0,FIB4 >= 1.3,FibroX-95,-8.709369652535107,3.0556926206693537e-18
+All-cause mortality,1,FIB4 >= 2.67,FibroX-95,-16.081045153301513,3.464838022605655e-58
+Cardiovascular-related mortality,0,FIB4 >= 1.3,FibroX-95,-4.188933841027318,2.80268086391787e-05
+Cardiovascular-related mortality,1,FIB4 >= 2.67,FibroX-95,-9.515181013831686,1.8139680969218337e-21
